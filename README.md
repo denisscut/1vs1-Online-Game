@@ -26,6 +26,7 @@ When you are 2 players, the round will start automatically in 3 seconds.
 ![Screenshot 2022-02-08 125904](https://user-images.githubusercontent.com/92582380/152994467-b8c835c6-1bd6-45fd-be0d-f55b9e39200e.png)
 
 To move, press the keys: 
+
 w - to jump
 
 a - to move left
